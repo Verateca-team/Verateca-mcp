@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.verateca/verateca",
+  "title": "Verateca",
+  "description": "The practical guide to supplements: labels, official upper limits by country, price per day.",
+  "version": "0.1.0",
+  "websiteUrl": "https://verateca.com",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://verateca.com/mcp"
+    }
+  ]
+}
