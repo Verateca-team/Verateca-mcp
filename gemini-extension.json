@@ -1,0 +1,10 @@
+{
+  "name": "verateca",
+  "version": "0.1.0",
+  "description": "The practical guide to supplements. Reads supplement labels down to the substance and sets daily totals against official upper limits by country, with sources. Read-only, no account.",
+  "mcpServers": {
+    "verateca": {
+      "httpUrl": "https://verateca.com/mcp"
+    }
+  }
+}

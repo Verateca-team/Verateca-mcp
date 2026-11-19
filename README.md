@@ -54,6 +54,12 @@ claude mcp add --transport http verateca https://verateca.com/mcp
 }
 ```
 
+**Gemini CLI** — install as an extension
+
+```bash
+gemini extensions install https://github.com/Verateca/verateca-mcp
+```
+
 **Clients that only run local (stdio) servers**
 
 ```json
